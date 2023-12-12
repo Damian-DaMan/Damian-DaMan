@@ -5,7 +5,7 @@
 <!--
 **Damian-DaMan/Damian-DaMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+Full-Stack Software Developer
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 <ul>
 <li> 🔭 I’m currently working my personal portfolio</li>
