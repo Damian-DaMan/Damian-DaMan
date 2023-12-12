@@ -7,10 +7,11 @@
 -->
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🔭 I’m currently working my personal portfolio
-- 🌱 I’m currently learning React!
-- 🤔 I’m looking for help with landing a job in the tech field
-- 📫 How to reach me: damian.richard.solis@gmail.com
+<ul align="center">
+<li>🔭 I’m currently working my personal portfolio</li>
+<li>🌱 I’m currently learning React!</li>
+<li>🤔 I’m looking for help with landing a job in the tech field</li>
+<li>📫 How to reach me: damian.richard.solis@gmail.com</li>
 
 <h3>Knowledge In:</h3>
 <div>
