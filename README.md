@@ -1,73 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Greetings</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f7f7f7;
-            text-align: center;
-            padding: 20px;
-        }
-
-        .container {
-            max-width: 600px;
-            margin: 0 auto;
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-
-        h1 {
-            color: #333;
-        }
-
-        p {
-            color: #555;
-        }
-    </style>
-</head>
-
-<body>
-
-    <div class="container">
-        <h1>Greetings!</h1>
-        <p>Hi, I'm <span id="name">Your Name</span>, a <span id="role">Software Engineer</span>.</p>
-        <p>Thanks for dropping by! I hope you find some of my work interesting.</p>
-
-        <script>
-            document.addEventListener("DOMContentLoaded", function () {
-                function SoftwareEngineer() {
-                    this.name = "Your Name";
-                    this.role = "Software Engineer";
-                    this.languagesSpoken = ["en_US"];
-                }
-
-                SoftwareEngineer.prototype.sayHi = function () {
-                    alert("Thanks for dropping by, hope you find some of my work interesting.");
-                };
-
-                // Create an instance of the SoftwareEngineer object
-                var me = new SoftwareEngineer();
-
-                // Update the HTML content with dynamic values
-                document.getElementById("name").textContent = me.name;
-                document.getElementById("role").textContent = me.role;
-
-                // Call the sayHi method of the me instance
-                me.sayHi();
-            });
-        </script>
-    </div>
-
-</body>
-
-</html>
-
+<p align="center">
+<a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
+<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+<a href="http://discord.com/users/apoorv#4040" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
+<a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+</p>
 ### <h1 align="center">Hello there, I'm Damian 👋 </h1>
 
 <!--
