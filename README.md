@@ -1,4 +1,5 @@
-### Hello there, I'm Damian. 
+<img src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6" alt="Js on a screen" />
+### Hello there, I'm Damian 👋
 
 <!--
 **Damian-DaMan/Damian-DaMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
