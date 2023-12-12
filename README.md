@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning React!
 - 🤔 I’m looking for help with landing a job in the tech field
 - 📫 How to reach me: damian.richard.solis@gmail.com
+  
 <a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Damian-DaMan&theme=nightowl&border_radius=4" alt="GitHub Streak" /></a>
 
 <p align="center">
