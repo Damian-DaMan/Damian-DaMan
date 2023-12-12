@@ -11,7 +11,6 @@
 <!--
 **Damian-DaMan/Damian-DaMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Damian-DaMan&theme=nightowl&border_radius=4" alt="GitHub Streak" /></a>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🔭 I’m currently working my personal portfolio
@@ -25,3 +24,5 @@
 <a href="http://discord.com/users/apoorv#4040" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
 <!-- <a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a> -->
 </p>
+
+<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Damian-DaMan&theme=nightowl&border_radius=4" alt="GitHub Streak" /></a>
