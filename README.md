@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/your-gif-id/source.gif" alt="Js on a screen" />
 
-### Hello there, I'm Damian 👋
+### <h1>Hello there, I'm Damian 👋 </h1>
 
 <!--
 **Damian-DaMan/Damian-DaMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
