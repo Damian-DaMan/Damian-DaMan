@@ -5,11 +5,13 @@
 **Damian-DaMan/Damian-DaMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🔭 I’m currently working my personal portfolio
-- 🌱 I’m currently learning React!
-- 🤔 I’m looking for help with landing a job in the tech field
-- 📫 How to reach me: damian.richard.solis@gmail.com
+<p align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+  - 🔭 I’m currently working on my personal portfolio
+  - 🌱 I’m currently learning React!
+  - 🤔 I’m looking for help with landing a job in the tech field
+  - 📫 How to reach me: damian.richard.solis@gmail.com
+</p>
 
 <a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Damian-DaMan&theme=nightowl&border_radius=4" alt="GitHub Streak" /></a>
 
