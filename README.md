@@ -7,7 +7,7 @@
 -->
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-<ul align="center">
+<ul>
 <li> 🔭 I’m currently working my personal portfolio</li>
 <li>🌱 I’m currently learning React!</li>
 <li>🤔 I’m looking for help with landing a job in the tech field</li>
