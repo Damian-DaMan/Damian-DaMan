@@ -1,4 +1,5 @@
-<img src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6" alt="Js on a screen" />
+<img src="https://media.giphy.com/media/your-gif-id/source.gif" alt="Js on a screen" />
+
 ### Hello there, I'm Damian 👋
 
 <!--
