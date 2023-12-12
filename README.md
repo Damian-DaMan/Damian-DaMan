@@ -11,8 +11,8 @@
 - 🌱 I’m currently learning React!
 - 🤔 I’m looking for help with landing a job in the tech field
 - 📫 How to reach me: damian.richard.solis@gmail.com
-- 
-Knowledge In:
+
+<h3>Knowledge In:</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
